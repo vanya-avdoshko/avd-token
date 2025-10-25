@@ -1,0 +1,20 @@
+{
+  "name": "AVD Token",
+  "symbol": "AVD",
+  "description": "Token for FDPT-2025",
+  "image": "https://vanya-avdoshko.github.io/avd-token/avd.png",
+  "external_url": "https://vanya-avdoshko.github.io/avd-token/",
+  "attributes": [
+    { "trait_type": "Type", "value": "Training Token" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "vanya-avdoshko.github.io/avd-token/avd.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
